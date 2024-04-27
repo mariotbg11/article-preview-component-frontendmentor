@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Frontend Mentor Article Preview Component](./images/Frontend%20Mentor%20-%20Article%20preview%20component%20-%20127.0.0.1.png.jpg)
+![Frontend Mentor Article Preview Component](./images/FrontendMentor-Article-preview-component%20-.png)
 
 ### Links
 
